@@ -7,7 +7,6 @@
 
 #pragma once
 
-#include <iostream>
 #include "HelloWorld.h"
 
 using namespace std;
