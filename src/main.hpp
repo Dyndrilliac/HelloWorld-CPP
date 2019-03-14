@@ -7,6 +7,6 @@
 
 #pragma once
 
-#include "HelloWorld.h"
+#include "HelloWorld.hpp"
 
 using namespace std;

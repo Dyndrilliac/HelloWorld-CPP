@@ -5,7 +5,7 @@
 	Date:    2/27/2016
 */
 
-#include "main.h"
+#include "main.hpp"
 
 int main(int argc, char *argv[])
 {
