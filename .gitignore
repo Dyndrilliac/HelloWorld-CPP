@@ -1,1 +1,3 @@
 .vscode/
+src/*.gch
+src/*.o
